@@ -1,2 +1,1 @@
-# AlgorithmsLab
-MIT CSE(Core) Algorithms Lab (IV Sem) 
+Algorithms Lab
