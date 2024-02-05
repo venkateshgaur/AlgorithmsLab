@@ -4,4 +4,4 @@ Topics Include:
 1) Analysis - Basic Time Complexity ( Implementing Adjacency Lists and Matrix ) 
 2) Brute Force Techniques - Bubble Sort, 
 3) Brute Force Technique II - Knapsack Problem, DFS, BFS
-4) Decrease and Conquer - using DFS and Source Removal and Closest Common Ancestor 
+4) Decrease and Conquer - Topological Sort using DFS and Source Removal 
