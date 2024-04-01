@@ -6,3 +6,7 @@ Topics Include:
 3) Brute Force Technique II - Knapsack Problem, DFS, BFS
 4) Decrease and Conquer - Topological Sort using DFS and Source Removal
 5) Divide and Conquer - MergeSort. Quick Sort 
+6) Transform and Conquer 
+7) Transform and Conquer 2
+8) Space and Time Tradeoffs
+9) Dynamic Programming - Knapsack, Warshall & Floyd's algorithm
